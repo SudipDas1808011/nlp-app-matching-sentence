@@ -1,0 +1,16 @@
+nlp-app/
+├── pages/
+│   ├── index.tsx
+│   └── api/
+│       ├── generate.ts
+│       ├── train.ts
+│       └── test.ts
+├── lib/
+│   ├── openai.ts
+│   └── model.ts
+├── public/
+├── styles/
+│   └── Home.module.css
+├── package.json
+├── tsconfig.json
+└── README.md
